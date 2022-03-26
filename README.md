@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/MT-Aiden/ICS2O-UNIT-1-O1)](https://repl.it/github/MT-Aiden/ICS2O-UNIT-1-01)
 
-This website can be found at: [https://MT-Aiden.github.io/ICS2O-UNIT-1-01](https://MT-Aiden.github.io/ICS2O-UNIT-1-01)
+This site can be found at: [https://MT-Aiden.github.io/ICS2O-UNIT-1-01](https://MT-Aiden.github.io/ICS2O-UNIT-1-01)
